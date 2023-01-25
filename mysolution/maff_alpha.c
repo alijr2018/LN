@@ -1,5 +1,6 @@
 #include<unistd.h>
-int main()
+
+int main ()
 {
-    write(1,"aBcDeFgHiJkLmNoPqRsTuVwXyZ\n",27);
+    write(1,"aBcDeFgHiJkLmNoPqRsTuVwXyZ",27);
 }
