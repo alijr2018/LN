@@ -1,21 +1,16 @@
-#include<unistd.h>
-#include <stdio.h>
+#include<stdio.h>
+
 void ft_ft(int *nbr)
 {
-    *nbr = 42 ;
+    *nbr = 42;
 }
 
-int		main(void)
+int	main()
 {
-	int a;
-	int *ptr;
+	int	*nbr;
+	int	number;
 
-	a = 21;
-	ptr = &a;
-	printf("Avant (21): %d\n", a);
-	ft_ft(ptr);
-	printf("Apres (42): %d\n", a);
+	nbr = &number;
+	ft_ft(nbr);
+	printf("%d", number);
 }
-
-
-//idk this ???
