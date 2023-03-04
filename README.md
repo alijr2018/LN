@@ -7,4 +7,4 @@ see-you-again
 
 04/03/23
 
-the check-in wil be in the last of this month. 
+the check-in wil be in the last of this month ⚠️⚠️⚠️. 
